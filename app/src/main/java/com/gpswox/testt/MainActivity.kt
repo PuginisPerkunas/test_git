@@ -10,10 +10,6 @@ class MainActivity : AppCompatActivity() {
         val some = true
         dumbString()
         dumbString() + dumbString()
-        if(true){
-            true
-        }else{
-            false
-        }
+        true
     }
 }
